@@ -1,0 +1,68 @@
+#: locale=en
+
+## E-Learning
+
+### Question Screen
+quizQuestion_ABE53F49_8A6A_7EBB_41CD_2E63D8F81284.ok = OK
+
+### Report Screen
+quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.title = - SCORE -
+quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.completion = Completed
+quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.questionsCorrect = Correct
+quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.downloadCSV = Download .csv
+quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.questionsIncorrect = Incorrect
+quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.items = Items Found
+quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.questions = Questions
+quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.repeat = Repeat
+quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.description = Resultados da Formação
+quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.submitToLMS = Submit
+quizScore_ABEBAF4A_8A6A_7EB9_41DC_D38A468B39DB.elapsedTime = Time
+
+### Score Name
+score1.label = pontos
+score3.label = respostacerta
+score4.label = respostaerrada
+
+### Timeout Screen
+quizTimeout_ABE53F49_8A6A_7EBB_41DA_B236D0188577.title = - TIMEOUT -
+quizTimeout_ABE53F49_8A6A_7EBB_41DA_B236D0188577.repeat = Repeat
+quizTimeout_ABE53F49_8A6A_7EBB_41DA_B236D0188577.score = View Score
+
+## Media
+
+### 360 Video
+
+### Audio
+audiores_8F0940B4_939E_4661_41C3_8DAB4C3515E9.mp3Url = media/audio_850BA178_9396_46E0_41B3_1251377A7771_en.mp3
+audiores_8F34BFFA_939E_59E0_41DF_32810FDB4DBD.mp3Url = media/audio_85F09916_93B6_C621_41CE_AE62177B4825_en.mp3
+audiores_91C30850_8AE6_42A9_41AC_93F156826612.mp3Url = media/audio_971675C0_8AE6_CDA9_41D0_1264E26ED55A_en.mp3
+audiores_E85523BA_E672_450A_41BD_924518BF0051.mp3Url = media/audio_F3CC908C_E748_3295_41DC_DE895582A4BA_en.mp3
+audiores_F635FB1A_E681_B699_41DC_E766FCF0EDFA.mp3Url = media/audio_F6B4CCA3_E680_93AE_41C6_25FAF91C28F7_en.mp3
+
+### Title
+panorama_143F2A99_18DD_CB1A_41B2_AA6C577B3E90.label = concluido_submeter
+panorama_14813C32_18DD_4F2E_41AB_6A061057AC2F.label = intro_tutorial
+panorama_1417871C_18DD_391A_41A0_13BEE24E4429.label = menu
+
+panorama_F4A7E4BC_E77B_D2F4_41DE_B965D2299F3F.label = modulo2
+
+panorama_1407B663_18DD_FB2E_41B7_35FDB34C1F42.label = recomecar
+media_F3025907_E748_3394_41DA_E7A268FDF678.label = restauracao_modulo3
+
+### Video
+videores_09B634ED_18C7_DF3A_41AF_087A9DAAE392.url = media/media_F3025907_E748_3394_41DA_E7A268FDF678_en.mp4
+videores_09B184FF_18C7_DF16_419F_5E15858D5ACD.url = media/media_F3025907_E748_3394_41DA_E7A268FDF678_en_1.mp4
+videores_09B634ED_18C7_DF3A_41AF_087A9DAAE392.posterURL = media/media_F3025907_E748_3394_41DA_E7A268FDF678_poster_en.jpg
+videores_09B184FF_18C7_DF16_419F_5E15858D5ACD.posterURL = media/media_F3025907_E748_3394_41DA_E7A268FDF678_poster_en.jpg
+
+## Right Click Menu
+
+### Text
+PlayerMenuItem_B9C0E392_AD98_B710_41D5_8223D891D513.label = VR2WORK
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Demo VR Restauracao - Burguer King

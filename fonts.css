@@ -1,0 +1,18 @@
+@font-face {
+   font-family: "Be Vietnam Pro Medium";
+   src: url("fonts/Be Vietnam Pro Medium.woff") format("woff"), url("fonts/Be Vietnam Pro Medium.eot") format("embedded-opentype"), url("fonts/Be Vietnam Pro Medium.ttf") format("truetype"), url("fonts/Be Vietnam Pro Medium.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Be Vietnam Pro Black";
+   src: url("fonts/Be Vietnam Pro Black.woff") format("woff"), url("fonts/Be Vietnam Pro Black.eot") format("embedded-opentype"), url("fonts/Be Vietnam Pro Black.ttf") format("truetype"), url("fonts/Be Vietnam Pro Black.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Be Vietnam Pro Black";
+   src: url("fonts/Be Vietnam Pro Black Italic.woff") format("woff"), url("fonts/Be Vietnam Pro Black Italic.eot") format("embedded-opentype"), url("fonts/Be Vietnam Pro Black Italic.ttf") format("truetype"), url("fonts/Be Vietnam Pro Black Italic.svg") format("svg");
+   font-weight: normal;
+   font-style: italic;
+}

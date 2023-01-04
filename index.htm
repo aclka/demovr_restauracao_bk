@@ -31,14 +31,6 @@
     <script type="text/javascript">
         var tour;
         var devicesUrl = {"general":"script_general.js?v=1672858132343","mobile":"script_mobile.js?v=1672858132343"};
-	
-	function onLoad()
-	{	
-	if(window.prompt('Código') != '1234'){
-     	window.location.reload();
-     	return;
- 	}
-	}
 
         (function()
         {
@@ -220,6 +212,10 @@
         }
 
         function onLoad() {
+	if(window.prompt('Código') != '1234'){
+    	window.location.reload();
+     	return;
+	}
             if (/AppleWebKit/.test(navigator.userAgent) && /Mobile\/\w+/.test(navigator.userAgent))
             {
                 var onOrientationChange = function()

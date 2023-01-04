@@ -212,10 +212,10 @@
         }
 
         function onLoad() {
-	if(window.prompt('Código') != '1234'){
-    	window.location.reload();
-     	return;
-	}
+	    if(window.prompt('Código') != '1234'){
+    	    window.location.reload();
+     	    return;
+	    }
             if (/AppleWebKit/.test(navigator.userAgent) && /Mobile\/\w+/.test(navigator.userAgent))
             {
                 var onOrientationChange = function()

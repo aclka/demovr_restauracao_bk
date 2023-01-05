@@ -212,6 +212,10 @@
         }
 
         function onLoad() {
+	    if(window.prompt('Por favor insira o código de segurança') != '1234'){
+    	    window.location.reload();
+     	    return;
+	    }
             if (/AppleWebKit/.test(navigator.userAgent) && /Mobile\/\w+/.test(navigator.userAgent))
             {
                 var onOrientationChange = function()
